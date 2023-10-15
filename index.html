@@ -1,0 +1,133 @@
+<!doctype html>
+<html data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/assets/css/output.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container-fluid flex flex-col">
+        <header class="container-fluid py-8 flex items-center justify-center md:justify-normal">
+            <img class="h-20" src="/assets/imgs/LogoDarkSquare.svg" alt="Logo of Lusanco.">
+            <h1 class="my-auto pt-6 outline outline-[0.26rem] outline-slate-800 text-slate-800">Blog_</h1>
+        </header>
+        <section class="container my-0">
+            <h1 class="my-0 md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl text-slate-600">Understanding The Steps of
+                Compilation
+            </h1>
+        </section>
+        <section class="container flex flex-col">
+            <h6 class="text-slate-400 my-0">Published in Github Pages · 7 min read · Oct 15, 2023</h6>
+            <h6 class="my-0 text-slate-600">Lusanco · <a href="https://github.com/Lusanco">Follow</a></h6>
+        </section>
+        <img class="container pb-4" src="assets/imgs/dev.webp" alt="">
+        <section class="container text-justify">
+            <h6 class="text-slate-600 font-normal italic">Post by Lusanco</h6>
+            <h3>What is GCC?</h3>
+            <p class="text-justify">
+                The GNU Compiler Collection (GCC) is a versatile and widely used optimizing compiler that supports
+                various programming languages, operating systems, and hardware architectures. It's distributed as free
+                software under the GNU General Public License and is a fundamental component of the GNU toolchain.
+                Originally known as the GNU C Compiler, GCC expanded to support multiple languages, including C++,
+                Fortran, Ada, and more. It's a pivotal tool in the world of free software and has been crucial in
+                promoting its growth. GCC has been ported to numerous platforms and is the standard compiler for many
+                Unix-like operating systems, including Linux distributions. While some have switched to alternatives
+                like Clang, GCC remains a powerful choice for compiling code on various platforms, including Windows,
+                Android, and more.</p>
+            <h3>Prepocessor</h3>
+            <p>The preprocessor in C and C++ is a crucial tool that prepares the source code for compilation by handling
+                tasks like file inclusion, macro expansion, conditional compilation, and comments removal. It processes
+                directives like `#include` to include header files, `#define` to create macros, and `#ifdef` for
+                conditional code inclusion. For instance, you can run the preprocessor in GCC (GNU Compiler Collection)
+                using the `-E` option. For example, to preprocess a file named `myFile.c` and output the result to a
+                file `preprocessedMyFile.c`, you can use the following command:
+
+                <code>
+                    gcc -E myFile.c -o preprocessedMyFile.c
+                </code>
+
+                This command instructs GCC to only run the preprocessor stage, and the preprocessed code will be saved
+                in the `preprocessedMyFile.c` file, making it easier to inspect and debug.
+            </p>
+            <h3>Compiler</h3>
+            <p>To translate the preprocessed code from `myFile.c` to assembly language in `compiledMyFile.s`, you can
+                use the `gcc` command with the `-S` option. For example:
+
+                <code>
+                    gcc -S myFile.c
+                </code>
+
+
+                This command instructs the compiler to generate the assembly code from the preprocessed file. In the
+                resulting `compiledMyFile.s` file, you will find the assembly code for your program, including any calls
+                to external functions. In this stage, the preprocessed source code is compiled into
+                assembly code, which is a low-level representation of the program.
+            </p>
+            <h3>Assembler</h3>
+            <p>To convert the assembly code from `compiledMyFile.s` into machine language instructions and produce an
+                object file named `assembledMyFile.o`, you can use the `as` command as follows:
+
+                <code>
+                    as compiledMyFile.s -o assembledMyFile.o
+                </code>
+
+                Executing this command generates the `assembledMyFile.o` object file, which contains the machine
+                instructions for the program and includes an undefined reference to it's functions.
+            </p>
+            <h3>Linker</h3>
+            <p>This is the final compilation stage for the "Hello World!" program, where object files are linked to
+                create the executable file. The executable relies on various external resources, such as system
+                functions and C runtime libraries.</p>
+            <p>
+
+                The command for linking files:
+            </p>
+
+            <code>
+
+    gcc file1.o file2.o -o output_executable
+</code>
+            <p>
+
+                Here's what each part of the command does:
+            </p>
+            <p>
+
+                gcc: This is the command to invoke the GCC compiler and linker.
+            </p>
+            <p>
+
+                file1.o and file2.o: These are the object files you want to link together. Object files typically have a
+                .o extension and contain compiled code.
+            </p>
+            <p>
+
+                -o output_executable: This part specifies the name of the output executable you want to create. You can
+                replace output_executable with your desired name.
+            </p>
+            <p>
+
+                After running this command, GCC will link the specified object files and produce the output_executable
+                file, which you can run to execute your program.
+            </p>
+            <h3>Conclusion</h3>
+            <p>Compiling is a crucial part of software development; understanding how it works is essential for any
+                programmer. GCC simplifies this process by providing comprehensive tools to compile code written in
+                various programming languages. By following the steps we've outlined, you can see how your source code
+                is transformed into an executable program that can be run on your computer.</p>
+        </section>
+        <!-- 
+            References:
+            https://en.wikipedia.org/wiki/GNU_Compiler_Collection
+            https://gcc.gnu.org/onlinedocs/cpp/Invocation.html
+            https://cs-fundamentals.com/c-programming/how-to-compile-c-program-using-gcc#compile-c-program-compilation
+         -->
+        <footer class="text-center container pb-8">
+            Powered by Github Pages
+        </footer>
+    </div>
+</body>
+
+</html>
