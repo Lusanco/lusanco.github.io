@@ -1,0 +1,113 @@
+---
+import Card from "../components/Card.astro";
+import Layout from "../components/layouts/Layout.astro";
+import Panel from "../components/layouts/Panel.astro";
+---
+
+<Layout>
+  <Panel>
+    <div class="w-full h-full mt-20">
+      <h1 class="font-bold font-sans text-center text-3xl mb-5 md:my-10">
+        Projects
+      </h1>
+      <div
+        class="w-full h-full grid md:grid-cols-2 lg:grid-cols-3 lg:max-w-2xl md:max-w-md gap-4 md:gap-8 lg:gap-6 mx-auto"
+      >
+        <!-- zomiotech.com -->
+        <a target="_blank" slot="link" href="https://zomiotech.com/">
+          <Card>
+            <img
+              src="/img/projects/zomiotech.svg"
+              alt="Project Image"
+              slot="image"
+            />
+            <h1 slot="h1">Website Redesign</h1>
+            <p slot="p">HTML - TAILWIND</p>
+          </Card>
+        </a>
+        <!-- freecodecamp tribute page -->
+        <a
+          target="_blank"
+          slot="link"
+          href="https://codepen.io/lusanco/pen/JjMameJ"
+        >
+          <Card>
+            <img
+              src="/img/projects/fcc-tribute-page.png"
+              alt="Project Image"
+              slot="image"
+            />
+            <h1 slot="h1">Tribute Page</h1>
+            <p slot="p">HTML - PICO - TAILWIND</p>
+          </Card>
+        </a>
+        <!-- freecodecamp survey -->
+        <a
+          target="_blank"
+          slot="link"
+          href="https://codepen.io/lusanco/pen/abEaxbQ"
+        >
+          <Card>
+            <img
+              src="/img/projects/fcc-survey-form.png"
+              alt="Project Image"
+              slot="image"
+            />
+            <h1 slot="h1">Survey Form</h1>
+            <p slot="p">HTML - PICO - TAILWIND</p>
+          </Card>
+        </a>
+        <!-- freecodecamp product landing -->
+        <a
+          target="_blank"
+          slot="link"
+          href="https://codepen.io/lusanco/pen/BaJqNwO"
+        >
+          <Card>
+            <img
+              src="/img/projects/fcc-product-landing-page.png"
+              alt="Project Image"
+              slot="image"
+            />
+            <h1 slot="h1">Product Landing Page</h1>
+            <p slot="p">HTML - PICO - TAILWIND</p>
+          </Card>
+        </a>
+
+        <!-- freecodecamp tech docs -->
+        <a
+          target="_blank"
+          slot="link"
+          href="https://codepen.io/lusanco/pen/rNpqQpm"
+        >
+          <Card>
+            <img
+              src="/img/projects/fcc-tech-docs-page.png"
+              alt="Project Image"
+              slot="image"
+            />
+            <h1 slot="h1">Documentation Page</h1>
+            <p slot="p">HTML - PICO - TAILWIND</p>
+          </Card>
+        </a>
+
+        <!-- freecodecamp portfolio -->
+        <a
+          target="_blank"
+          slot="link"
+          href="https://codepen.io/lusanco/pen/vYpQdYG"
+        >
+          <Card>
+            <img
+              src="/img/projects/fcc-personal-portfolio.png"
+              alt="Project Image"
+              slot="image"
+            />
+            <h1 slot="h1">Personal Portfolio</h1>
+            <p slot="p">HTML - PICO - TAILWIND</p>
+          </Card>
+        </a>
+      </div>
+    </div>
+  </Panel>
+</Layout>

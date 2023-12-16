@@ -1,0 +1,237 @@
+---
+import Layout from "../components/layouts/Layout.astro";
+import Main from "../components/layouts/Main.astro";
+---
+
+<Layout>
+  <Main>
+    <div class="w-full h-full mt-10">
+      <h1 class="font-bold font-sanstext-center text-3xl mb-5 md:my-10">
+        About
+      </h1>
+      <!-- Main Container -->
+      <div
+        class="w-full h-full max-w-5xl grid grid-cols-1 lg:grid-cols-3 md:gap-2 md:px-2 mx-auto"
+      >
+        <!-- Left Col -->
+        <div
+          class="md:bg-slate-200/20 w-full lg:col-span-1 flex flex-col md:rounded-lg md:mt-5 font-bold"
+        >
+          <!-- Profile -->
+          <div class="mx-auto mt-10">
+            <!-- Image Container -->
+            <div
+              class="rounded-full overflow-hidden w-[11rem] m-auto h-[11rem]"
+            >
+              <!-- Image -->
+              <img src="/profile.jpg" alt="" />
+            </div>
+            <h1 class="text-2xl">Luis Santiago</h1><br />
+          </div>
+          <!-- Traditional Experience -->
+          <div
+            class="md:bg-slate-800/20 bg-slate-800/40 rounded-lg mx-2 lg:m-2 p-2 leading-none space-y-4 h-full items-center justify-center flex flex-col"
+          >
+            <div>
+              <h1 class="font-bold">Overview</h1>
+            </div>
+            <ul class="text-center md:text-left mx-4 space-y-4 md:space-y-2">
+              <li>
+                <h1>ZOMIO Inc.</h1>
+                <h6 class="relative md:bottom-1 text-xs text-slate-200/75">
+                  4 years 4 months+
+                </h6>
+              </li>
+              <li>
+                <h1>Web Developer (Apprenticeship)</h1><h6
+                  class="relative md:bottom-1 text-xs text-slate-200/75"
+                >
+                  June 2022 - Current
+                </h6>
+              </li>
+              <li>
+                <h1>Administrative Assistant (Full-Time)</h1><h6
+                  class="relative md:bottom-1 text-xs text-slate-200/75"
+                >
+                  March 2019 - June 2022
+                </h6>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- Right Col -->
+        <div
+          class="md:bg-slate-200/20 w-full lg:col-span-2 flex md:rounded-lg lg:mt-5"
+        >
+          <!-- Grid Container -->
+          <div class="grid grid-cols-1 h-full space-y-2 p-2">
+            <!-- Summary -->
+            <div
+              class="md:bg-slate-800/20 bg-slate-800/40 rounded-lg p-2 lg:text-right"
+            >
+              <div class="lg:p-4 space-y-4">
+                <h1 class="text-2xl font-bold">Summary</h1>
+                <p class="text-justify font-semibold">
+                  Motivated Web Developer with hands-on experience in HTML,
+                  Tailwind CSS, JavaScript, and PahoMQTT. Successfully delivered
+                  multiple iterations of projects while maintaining client
+                  confidentiality. Former results-driven Administrative
+                  Assistant with a tech-oriented approach and CEO collaboration
+                  experience. Experience in overseeing operations, optimizing
+                  processes, and providing comprehensive support. Skilled in
+                  calendar management, communication, and record-keeping.
+                </p>
+              </div>
+            </div>
+
+            <!-- Skills -->
+            <div
+              class="md:bg-slate-800/20 bg-slate-800/40 rounded-lg lg:text-center space-y-2"
+            >
+              <div class="lg:p-4 space-y-4">
+                <h1 class="text-2xl font-bold">Skills</h1>
+                <!-- Skills Cols -->
+                <div class="md:text-justify font-semibold">
+                  HTML • TailwindCSS • JavaScript • NodeJS • PahoMQTT •
+                  Responsive Design • Mobile First Design • Hosting • Basic
+                  Command-Line • DiffusionBee • MQTT Explorer • Obsidian •
+                  Vectornator • Visual Studio Code • Monday.com • Microsoft
+                  Teams • Zoom • Google Meet • Google Calendar • Google Drive •
+                  Google Docs • Google Slides • Google Chrome • Firefox • Safari
+                  • Windows • MacOS
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main Container 2 -->
+      <div class="w-full h-full max-w-5xl md:gap-2 mx-auto">
+        <!-- Grid Container -->
+        <div class="grid grid-cols-1 h-full">
+          <!-- Experience -->
+          <div
+            class="md:bg-slate-200/20 md:rounded-lg lg:mt-2 md:m-2 p-2 space-y-2"
+          >
+            <h1 class="text-2xl font-bold">Experience</h1>
+            <!-- Frontend Web Developer -->
+            <div
+              class="md:bg-slate-800/20 bg-slate-800/40 rounded-lg lg:text-left w-full lg:p-4 space-y-4 pb-2"
+            >
+              <h1 class="text-xl font-bold">Frontend Web Developer</h1>
+              <ul
+                class="md:list-disc md:px-4 leading-4 lg:leading-normal space-y-4 lg:space-y-0 font-semibold"
+              >
+                <li>
+                  Create, design, and redesign websites and web apps and their
+                  respective iterations.
+                </li>
+                <li>
+                  Developed a fully functioning MQTT-powered web app capable of
+                  receiving input from any MQTT-enabled software or hardware
+                  device.
+                </li>
+                <li>
+                  Developed an MQTT and map-powered web app to receive and
+                  display coordinates from a hardware device.
+                </li>
+                <li>
+                  Worked with various technologies including HTML, TailwindCSS,
+                  JavaScript, PahoMQTT, LeafletJS, and NodeJS.
+                </li>
+              </ul>
+            </div>
+
+            <!-- Admin Assistant -->
+            <div
+              class="md:bg-slate-800/20 bg-slate-800/40 rounded-lg lg:text-left w-full lg:p-4 space-y-4 pb-2"
+            >
+              <h1 class="text-xl font-bold">Administrative Assistant</h1>
+              <ul
+                class="md:list-disc md:px-4 leading-4 lg:leading-normal space-y-4 lg:space-y-0 font-semibold"
+              >
+                <li>
+                  Collaborated with the CEO in supporting the organizational
+                  vision and operational strategy, ensuring alignment with
+                  company goals.
+                </li>
+                <li>
+                  Oversaw company operations and departments, including
+                  marketing, engineering, and administration, to ensure smooth
+                  workflow and productivity.
+                </li>
+                <li>
+                  Ensured effective recruiting, onboarding, and performance
+                  management to support a cohesive and productive team.
+                </li>
+                <li>
+                  Analyzed internal operations, identifying areas for process
+                  enhancement to optimize workflow and efficiency.
+                </li>
+                <li>
+                  Managed the executive's calendar, expertly making appointments
+                  and prioritizing sensitive matters to maximize time
+                  management.
+                </li>
+                <li>
+                  Provided administrative assistance to the executive team,
+                  managing emails, memos, and communications on their behalf.
+                </li>
+                <li>
+                  Organized meetings, scheduled appointments, and managed the
+                  executive calendar, prioritizing sensitive matters
+                  effectively.
+                </li>
+                <li>
+                  Maintained comprehensive and accurate records, including
+                  financial and operational documentation.
+                </li>
+                <li>
+                  Performed minor accounting duties to support financial
+                  operations.
+                </li>
+                <li>
+                  Reviewed, sorted, and distributed incoming mail promptly and
+                  efficiently.
+                </li>
+                <li>
+                  Answered phone calls politely and professionally, ensuring
+                  excellent customer service.
+                </li>
+                <li>
+                  Welcomed visitors, identified their purpose of visit, and
+                  directed them to the appropriate departments, enhancing the
+                  overall experience.
+                </li>
+                <li>
+                  Utilized computers to generate reports, transcribe meeting
+                  minutes, create presentations, and conduct research.
+                </li>
+                <li>
+                  Assisted in managing the day-to-day operations of the company,
+                  collaborating with various departments and anticipating their
+                  needs for seamless operations.
+                </li>
+                <li>
+                  Demonstrated strong written and verbal communication skills,
+                  maintaining polite and professional communication via phone,
+                  email, and mail.
+                </li>
+                <li>
+                  Performed various administrative duties, handling office
+                  tasks, filing, booking appointments, and scheduling meetings.
+                </li>
+                <li>
+                  Translated strategies into actionable goals, assisting in
+                  implementing organization-wide performance management and goal
+                  setting.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </Main>
+</Layout>

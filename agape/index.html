@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/public/agape/favicon.png">
+    <link rel="icon" href="/agape/favicon.png">
+    <title>Ministerio Cristiano AGAPE, MDS</title>
+    <meta name="description"
+        content="Experimenta la gracia y bendición del Señor en la comunidad cristiana el  Ministerio Cristiano AGAPE, MDS. Únete a nosotros para compartir y recibir sus bendiciones mientras crecemos como familia en Cristo." />
+    <script src="https://kit.fontawesome.com/c5032db378.js" crossorigin="anonymous"></script>
+    <script src="//unpkg.com/alpinejs" defer></script>
+    <!-- <link rel="stylesheet" href="./dist/output.css"> -->
+    <link rel="stylesheet" href="/agape/build.css">
+    <style>
+        [x-cloak] {
+            display: none !important;
+        }
+
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .hide-scroll::-webkit-scrollbar {
+            display: none;
+        }
+
+        /* Hide scrollbar for IE, Edge and Firefox */
+        .hide-scroll {
+            -ms-overflow-style: none;
+            /* IE and Edge */
+            scrollbar-width: none;
+            /* Firefox */
+        }
+    </style>
+</head>
+
+<body class="block w-screen h-full">
+
+    <!-- App Container -->
+    <div id="app" class="absolute flex flex-col items-center justify-center w-full h-full bg-black"
+        x-data="{home:true, about:false, contact:false, hours:false, show: false}">
+
+        <!-- Background Video -->
+        <div id="bg-video-container" class="fixed w-full h-full transition-all duration-300">
+            <!-- Mobile -->
+            <video autoplay muted loop id="bg-video" class="object-cover w-full h-full md:hidden">
+                <source src="/agape/production_id_5199829 (540p).mp4" type="video/mp4">
+            </video>
+            <!-- Desktop -->
+            <video autoplay muted loop id="bg-video" class="hidden object-cover w-full h-full md:block">
+                <source src="/agape/production_id_4407800 (1080p).mp4" type="video/mp4">
+            </video>
+        </div>
+
+        <div
+            class="top-0 z-50 flex items-center justify-between w-full h-20 p-2 font-bold text-red-900 bg-gray-100 shadow-2xl md:font-extrabold md:p-4">
+            <!-- Nombre / Logo -->
+            <div class="flex items-center justify-center gap-2 md:gap-4">
+                <a x-on:click="
+                home = true, 
+                about = false, 
+                contact = false, 
+                hours = false" role="button" class="items-center rounded-full w-fit h-fit"><img
+                        src="/agape/revamped.png" alt="" class="w-16"></a>
+                <span
+                    class="hidden text-red-900 transition-all duration-100 lg:block hover:text-red-700 active:text-red-500">Ministerio
+                    Cristiano AGAPE, MDS</span>
+            </div>
+            <!-- Links -->
+            <nav class="hidden md:space-x-2 lg:space-x-4 md:block">
+                <a x-on:click="home = true, about = false, contact = false, hours = false" role="button"
+                    class="text-red-900 transition-all duration-100 hover:text-red-700 active:text-red-500">Inicio</a>
+                <a x-on:click="home = false, about = true, contact = false, hours = false" role="button"
+                    class="text-red-900 transition-all duration-100 hover:text-red-700 active:text-red-500">Conócenos</a>
+                <a x-on:click="home = false, about = false, contact = true, hours = false" role="button"
+                    class="text-red-900 transition-all duration-100 hover:text-red-700 active:text-red-500">Contáctenos</a>
+                <a x-on:click="home = false, about = false, contact = false, hours = true" role="button"
+                    class="text-red-900 transition-all duration-100 hover:text-red-700 active:text-red-500">Horarios</a>
+                <a href="https://www.youtube.com/@minsterioagapemds8306/featured" target="_blank"><button
+                        class="p-2 text-gray-100 transition-all duration-100 bg-red-900 rounded-lg md:p-4 ring-red-300 hover:bg-red-700 focus-visible:ring active:bg-red-500">Mensajes</button></a>
+            </nav>
+
+            <div class="md:hidden">
+                <button @click="show = ! show"
+                    class="absolute w-32 h-16 text-4xl text-gray-200 transition-all duration-100 bg-red-900 rounded-lg right-2 top-2 fa-solid fa-bars ring-red-300 hover:bg-red-700 focus-visible:ring active:bg-red-500"></button>
+                <nav :class="show ? '' : 'hidden'"
+                    class="absolute left-0 right-0 flex-col m-auto overflow-hidden text-center text-gray-800 bg-gray-100 border-t-0 border-b-4 border-red-900 rounded-lg rounded-t-none top-20">
+                    <a @click="home = true, about = false, contact = false, hours = false, show = false"
+                        class="flex items-center justify-center w-full h-full py-4 mx-auto text-center bg-gray-200">Inicio</a>
+                    <hr>
+                    <a @click="home = false, about = true, contact = false, hours = false, show = false"
+                        class="flex items-center justify-center w-full h-full py-4 mx-auto text-center">Conócenos</a>
+                    <hr>
+                    <a @click="home = false, about = false, contact = true, hours = false, show = false"
+                        class="flex items-center justify-center w-full h-full py-4 mx-auto text-center bg-gray-200">Contáctenos
+                    </a>
+                    <hr>
+                    <a @click="home = false, about = false, contact = false, hours = true, show = false"
+                        class="flex items-center justify-center w-full h-full py-4 mx-auto text-center">Horarios
+                    </a>
+                    <hr>
+                    <a @click="show = false" href="https://www.youtube.com/@minsterioagapemds8306/featured"
+                        target="_blank"
+                        class="flex items-center justify-center w-full h-full py-4 mx-auto text-center bg-gray-200">
+                        Mensajes</a>
+                </nav>
+            </div>
+        </div>
+
+        <main id="main" class="z-40 flex flex-col flex-auto w-full h-full overflow-y-scroll bg-gray-900/40 hide-scroll">
+            <!-- x-show Home -->
+            <section x-show="home" id="x-home"
+                class="flex flex-col items-center justify-center w-full max-w-xl px-2 py-10 m-auto text-center h-max md:py-20 hide-scroll">
+                <h1 class="pb-8 text-4xl font-bold text-gray-100 sm:text-5xl md:pb-12 md:text-6xl">
+                    Ministerio Cristiano AGAPE, MDS</h1>
+                <p class="pb-2 font-semibold leading-relaxed text-gray-100 md:font-bold md:pb-4 xl:text-lg">
+                    Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros.
+                    Romanos 5:8
+                </p>
+                <p class="pb-4 font-semibold leading-relaxed text-gray-100 md:pb-8 xl:text-lg md:font-bold">
+                    Se parte de nuestro Ministerio y así edificarnos juntos y que la Gracia del Senor te acompañe.
+                </p>
+
+                <div class="flex w-full flex-col gap-2.5 sm:flex-row sm:justify-center">
+                    <a x-on:click="
+                    home = false, 
+                    about = true, 
+                    contact = false, 
+                    hours = false" role="button"
+                        class="inline-block px-8 py-3 mx-2 text-sm font-semibold text-center text-gray-200 transition-all duration-100 bg-red-900 rounded-lg outline-none ring-red-300 hover:bg-red-700 focus-visible:ring active:bg-red-500 md:text-base md:m-auto">Comenzar</a>
+                </div>
+            </section>
+            <!-- /x-show Home -->
+
+            <!-- x-show About -->
+            <section x-cloak x-show="about" id="x-about"
+                class="flex flex-col items-center justify-center w-full py-10 text-center bg-gray-200 h-max md:py-20 hide-scroll">
+                <div
+                    class="relative flex flex-col w-full max-w-3xl px-2 font-bold text-justify text-gray-800 md:text-center h-max md:items-center md:justify-center">
+                    <h3
+                        class="w-full pb-8 text-4xl font-bold text-center text-red-900 sm:text-5xl md:pb-12 md:text-6xl">
+                        Sobre Nosotros</h3>
+                    <p class="w-full pb-4 leading-relaxed md:pb-8">Hola, somos el Ministerio Cristiano AGAPE MDS
+                        (Monte De Sion) y pertenecemos a la Red Internacional de Ministerios Monte De Sion con sede en
+                        Greenacres Florida. Como parte de la Red tenemos Ministerios en Honduras y México . También la
+                        Red consta con Instituto Teológico MDS el cual ofrece hasta cuatro años de estudios Bíblicos
+                        avalados por la Universidad Cristiana Logos. Nuestros ministerios tienen el propósito de
+                        extender la obra de Cristo a través de la edificación de los obreros para esta, como mencionó el
+                        Apóstol Pablo en su carta a los Efesios.</p>
+                    <p class="w-full pb-4 leading-relaxed md:pb-8">Efesios 4: 11-12 Él mismo constituyó a unos,
+                        apóstoles; a otros, profetas; a otros, evangelistas;· ya otros, pastores y maestros a fin de
+                        capacitar al pueblo de Dios para la obra de servicio, para edificar el cuerpo de Cristo. (NVI)
+                    </p>
+                    <p class="w-full pb-4 leading-relaxed md:pb-8">Cristo es el centro de nuestro mensaje, con el
+                        conocimiento de que Cristo mismo exaltó al Padre, nuestro Dios y nos dió el Espíritu Santo como
+                        guía, consuelo y promesa. Efesios 2:8 'Porque por gracia ustedes han sido salvados mediante la
+                        fe; esto no procede de ustedes, sino que es el regalo de Dios, '(NVI)
+                    </p>
+                    <p class="w-full pb-4 leading-relaxed md:pb-8">Nuestro ministerio y actividades promueven el
+                        desarrollo y preservación de la familia Cristiana, y la unidad del cuerpo de Cristo en el
+                        Espíritu Santo y fundamentados en la santa verdad que es la Biblia. Buscando así el edificarnos
+                        como un solo cuerpo en Cristo Jesus.
+                    </p>
+                    <p class="w-full pb-4 leading-relaxed md:pb-8">Nos puedes también seguir a través de Facebook y
+                        Youtube de los cuales encontrarás los enlaces al pie de esta página.</p>
+                    <p class="w-full pb-4 leading-relaxed md:pb-8">Servicios Virtuales Domingos- Servicio de Adoración
+                        y Predicación en Vivo 10:00 AM <br> Estudios Bíblicos- Jueves 7:00PM </p>
+                    <p class="w-full pb-2 leading-relaxed md:pb-4">Gracia y Paz en Cristo Jesús tengan todos,</p>
+                    <p class="w-full leading-relaxed">
+                        Pastor Luis Gonzalez
+                    </p>
+                </div>
+
+            </section>
+            <!-- /x-show About -->
+
+            <!-- x-show Contact -->
+            <section x-cloak x-show="contact" id="x-contact"
+                class="flex flex-col items-center justify-center flex-grow w-full py-10 m-auto text-center bg-gray-200 md:py-20 h-max hide-scroll">
+                <div
+                    class="relative flex flex-col w-full max-w-5xl px-2 font-bold text-center text-gray-800 h-max md:items-center md:justify-center">
+                    <h3 class="w-full pb-8 text-4xl font-bold text-center text-red-900 md:pb-12 md:text-6xl">
+                        Contáctanos</h3>
+                    <p class="w-full pb-8 leading-relaxed md:pb-12">Para contactarnos puede escribirnos a nuestro correo
+                        electronico: <a class="font-extrabold text-red-900 hover:text-red-700 active:text-red-500"
+                            href="mailto:ministerioagapemds@gmail.com">ministerioagapemds@gmail.com</a></p>
+                    <div class="w-full overflow-hidden shadow-xl rounded-xl">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3514.6176547140867!2d-81.28794342367506!3d28.24928247587625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd8e5753c23cb1%3A0x45e937032d784225!2s907%20Kentucky%20Ave%2C%20St%20Cloud%2C%20FL%2034769%2C%20EE.%20UU.!5e0!3m2!1ses-419!2spr!4v1692280749713!5m2!1ses-419!2spr"
+                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"
+                            class="w-full md:max-w-5xl md:h-80 rounded-xl"></iframe>
+                    </div>
+                    <p class="w-full pt-8 leading-relaxed md:pt-12">También pueden seguirnos en nuestras redes sociales:
+                    </p>
+                    <!-- Socials Navigation -->
+                    <nav
+                        class="flex items-center w-full max-w-md gap-2 px-2 pt-2 leading-relaxed text-center justify-evenly md:pt-4">
+                        <!-- Socials Links -->
+                        <a class="w-full text-lg text-blue-900 md:text-2xl"
+                            href="https://www.facebook.com/AGAPEMDSORLANDO" target="_blank">
+                            <i class="fa-brands fa-facebook"></i>
+                            <span class="">Facebook</span>
+                        </a>
+                        <a class="w-full text-lg text-red-800 md:text-2xl"
+                            href="https://www.youtube.com/@minsterioagapemds8306" target="_blank">
+                            <i class="fa-brands fa-youtube"></i>
+                            <span class="text-gray-900">Youtube</span>
+                        </a>
+                    </nav>
+                </div>
+            </section>
+            <!-- /x-show Contact -->
+
+            <!-- x-show Hours -->
+            <section x-cloak x-show="hours" id="x-hours"
+                class="flex flex-col items-center justify-center flex-grow w-full py-10 m-auto text-center bg-gray-200 h-max md:py-20 hide-scroll">
+                <div
+                    class="relative flex flex-col w-full max-w-5xl px-2 font-bold text-center text-gray-800 h-max md:items-center md:justify-center">
+                    <h3 class="w-full pb-8 text-4xl font-bold text-center text-red-900 md:pb-12 md:text-6xl">
+                        Horarios</h3>
+
+                    <h4 class="w-full pb-8 text-2xl leading-relaxed md:pb-12 md:text-4xl">Nuestros Servicios
+                        Virtuales Son
+                        Momentos Especiales</h4>
+                    <p class="w-full text-xl leading-relaxed md:text-2xl">Domingos</p>
+                    <p class="w-full pb-8 leading-relaxed md:pb-12">Servicio de
+                        Adoración y Predicación en Vivo a las 10:00 AM.</p>
+                    <p class="w-full text-xl leading-relaxed md:text-2xl">Jueves</p>
+                    <p class="w-full leading-relaxed">
+                        Estudios Bíblicos a
+                        las 7:00 PM.
+                    </p>
+                </div>
+            </section>
+            <!-- /x-show Hours -->
+            <!-- Footer -->
+            <footer
+                class="bottom-0 flex flex-wrap items-center justify-center w-full px-2 py-4 mx-auto space-y-4 text-center text-red-900 bg-gray-100 md:justify-between md:space-y-0 h-max md:py-8 md:px-4">
+                <!-- Copyright Notice -->
+                <p class="w-full font-semibold">
+                    © 2023, Ministerio Cristiano AGAPE, MDS. All Rights Reserved.
+                </p>
+            </footer>
+        </main>
+    </div>
+    <!-- /App Container -->
+</body>
+
+</html>

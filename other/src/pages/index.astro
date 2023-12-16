@@ -1,0 +1,73 @@
+---
+import Layout from "../components/layouts/Layout.astro";
+---
+
+<Layout>
+  <!-- Hero -->
+  <!-- Background Image -->
+  <main
+    class="bg-[url('/img/bg/five0.27141048100090415.png')] flex flex-col items-center justify-center bg-cover bg-repeat w-screen bg-center min-h-[28rem]"
+  >
+    <!-- Frosted Glass Blur Effect -->
+    <div
+      class="flex flex-col items-center justify-center w-screen min-h-[30rem] bg-slate-900 bg-opacity-20 backdrop-blur-lg"
+    >
+      <!-- Blend to Background Effect -->
+      <div
+        class="flex flex-col items-center justify-center w-screen bg-gradient-to-b from-transparent via-transparent to-slate-900 min-h-[30rem] text-center"
+      >
+        <!-- Brand/Slogan -->
+        <div class="relative bottom-10">
+          <img
+            class="mx-auto w-[15rem]"
+            src="img/logo/LogoLight.svg"
+            alt="logo"
+          />
+          <span class="sm:text-xl md:text-2xl lg:text-3xl">
+            Creating solutions using web technologies
+          </span>
+        </div>
+      </div>
+    </div>
+  </main><br /><br />
+
+  <!-- Card Group -->
+  <div
+    class="flex items-center justify-center w-[95%] md:w-screen h-auto gap-5 mx-auto min-h-[15rem] lg:px-4"
+  >
+    <!-- Card Image 1 -->
+    <div
+      class="bg-[url('/img/wow/one0.931900057641192.png')] w-[10rem] h-[10rem] sm:w-[25rem] sm:h-[25rem] md:w-[30rem] md:h-[30rem] lg:rounded-none lg:w-[35rem] lg:h-[15rem] shadow-2xl shadow-orange-500/25 bg-cover bg-center border-slate-200 lg:border-4 rounded-full"
+    >
+    </div>
+
+    <!-- Card Image 2 -->
+    <div
+      class="bg-[url('/img/wow/two0.2680019451623177.png')] bg-cover bg-center lg:w-[15rem] lg:h-[35rem] rounded-lg lg:rounded-none shadow-2xl shadow-cyan-500/25 border-slate-200 md:border-4 border-2 hidden lg:flex lg:basis-2/12"
+    >
+    </div>
+
+    <!-- Card Image 3 -->
+    <div
+      class="bg-[url('/img/wow/three0.2733565638474149.png')] lg:w-[20rem] lg:h-[20rem] rounded-lg shadow-2xl bg-cover bg-center lg:rounded-none shadow-indigo-500/25 border-slate-200 md:border-4 border-2 hidden lg:flex bottom-10 relative"
+    >
+    </div>
+  </div>
+
+  <!-- Frosted Glass Box -->
+  <div
+    class="relative flex items-center justify-center w-[95%] md:w-screen mx-auto bg-slate-900 bottom-16 lg:bottom-48 backdrop-blur-xl bg-opacity-20 py-4"
+  >
+    <!-- Text Container -->
+    <div
+      class="flex flex-wrap items-center justify-center w-full h-full gap-4 p-[1rem] font-bold text-xl"
+    >
+      <span>HTML</span>
+      <span>TailwindCSS</span>
+      <span>Javascript</span>
+      <span>NodeJS</span>
+      <span>Astro</span>
+    </div>
+  </div>
+  <br /><br />
+</Layout>
