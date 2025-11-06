@@ -67,7 +67,7 @@
 ## **EDUCATION**
 
 **Udemy – The Complete Agentic AI Engineering Course (2025) • Expected by Dec 2025**
-**Tech Skills: Gradio • OpenAI Client • OpenAI Agents SDK • Gemini API • Ollama • Prompt Chaining.**
+- **Tech Skills: Gradio • OpenAI Client • OpenAI Agents SDK • Gemini API • Ollama • Prompt Chaining.**
 
 **BIG school – Curso de Iniciación al Desarrollo con IA • Oct 2025 • [Credential Link](https://drive.google.com/file/d/1ZKxWtKuIeqD_R-fYteFtOjMizvSip0K9/view?usp=sharing)**
 - **Tech Skills: AI Tools Fundamentals • LLM Workflow Concepts • AI-Assisted Development Principles.**
