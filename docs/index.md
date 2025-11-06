@@ -70,19 +70,19 @@
 **Tech Skills: Gradio • OpenAI Client • OpenAI Agents SDK • Gemini API • Ollama • Prompt Chaining.**
 
 **BIG school – Curso de Iniciación al Desarrollo con IA • Oct 2025 • [Credential Link](https://drive.google.com/file/d/1ZKxWtKuIeqD_R-fYteFtOjMizvSip0K9/view?usp=sharing)**
-**Tech Skills: AI Tools Fundamentals • LLM Workflow Concepts • AI-Assisted Development Principles.**
+- **Tech Skills: AI Tools Fundamentals • LLM Workflow Concepts • AI-Assisted Development Principles.**
 
 **Udemy – Curso de IA web: Nuevo Modelo de Google para JavaScript • Oct 2025 • [Credential Link](https://www.udemy.com/certificate/UC-33ff0078-2eac-4a80-8690-8b2d747ccfe7/)**
-**Tech Skills: Chrome Built-in AI APIs • Gemini Nano Integration • Local AI Development • Prompt API.**
+- **Tech Skills: Chrome Built-in AI APIs • Gemini Nano Integration • Local AI Development • Prompt API.**
 
 **AWS – AWS Certified Cloud Practitioner • May 2025 • [Credential Link](https://cp.certmetrics.com/amazon/en/public/verify/credential/cac48efa5fa04cee91ef6f372de23518)**
-**Tech Skills: Cloud Computing • Security & Compliance • Cost Optimization • Architecture Principles.**
+- **Tech Skills: Cloud Computing • Security & Compliance • Cost Optimization • Architecture Principles.**
 
 **Holberton Coding School – Foundations of Computer Science • July 2024 • [Credential Link](https://drive.google.com/file/d/1OEBJ3mwrmCAXIXk3UxCuPaQHNqt1L0zz/view)**
-**Tech Skills: C • Python • Flask • SQL • Bash Scripting • Version Control (Git, GitHub).**
+- **Tech Skills: C • Python • Flask • SQL • Bash Scripting • Version Control (Git, GitHub).**
 
 **freeCodeCamp – Responsive Web Design • Apr 2022 • [Credential Link](https://www.freecodecamp.org/certification/fcc97f86d3b-c433-4dce-9c8b-f8d071526a04/responsive-web-design)**
-**Tech Skills: HTML • CSS • Mobile First Design • Responsive Design.**
+- **Tech Skills: HTML • CSS • Mobile First Design • Responsive Design.**
 
 ## **SKILLS**
 
