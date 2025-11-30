@@ -96,6 +96,4 @@
 
 **Other Skills: Bilingual (English–Spanish) • Team Leadership • Mobile-First Design • Responsive Design**
 
-**Currently Learning: AI Agent Development • AI-Assisted Development • AI Tools**
-
-**Personal Interests: Lua Programming  • LÖVE (Love2d Game Development)**
+**Current Interests: AI Agent Development • AI-Assisted Development • AI Tools**
