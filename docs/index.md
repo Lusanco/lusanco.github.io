@@ -69,6 +69,21 @@
 **Udemy – The Complete Agentic AI Engineering Course (2025) • Expected by Dec 2025**
 - **Tech Skills: Gradio • OpenAI Client • OpenAI Agents SDK • Gemini API • Ollama • Prompt Chaining.**
 
+**Docker for the Absolute Beginner - Hands On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-405cf4a3-7b03-4aca-b381-46449040474b/)**
+- **Tech Skills: Docker Engine • Dockerfile Development • Docker Compose • Docker Storage & Networking • Docker Registry.**
+
+**Udemy Labs - Docker for the Absolute Beginner • Dec 2025 • [Credential Link](https://learn.kodekloud.com/user/certificate/eab7f1dd-5c3e-4338-9290-72a8359b371f)**
+- **Tech Skills: Docker Engine • Dockerfile Development • Docker Compose • Docker Storage & Networking • Docker Registry.**
+
+**Ansible Advanced - Hands-On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-b7ecbe7b-7a8f-49ca-a06e-d9574b519218/)**
+- **Tech Skills: Ansible Vault • Custom Modules & Plugins • Dynamic Inventory • Advanced Error Handling • Ansible Strategies & Lookups.**
+
+**Ansible for the Absolute Beginner - Hands-On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-bce3a9c4-384a-4961-85e9-427379d67c46/)**
+- **Tech Skills: Ansible Playbooks • Ansible Roles & Collections • Jinja2 Templating • Ansible Inventory Management • YAML.**
+
+**Udemy Labs : Ansible for the Absolute Beginners • Dec 2025 • [Credential Link](https://learn.kodekloud.com/user/certificate/de4fcbad-5b3f-4e69-9728-29bbbc9c8900)**
+- **Tech Skills: Ansible Playbooks • Ansible Roles & Collections • Jinja2 Templating • Ansible Inventory Management • YAML.**
+
 **BIG school – Curso de Iniciación al Desarrollo con IA • Oct 2025 • [Credential Link](https://drive.google.com/file/d/1ZKxWtKuIeqD_R-fYteFtOjMizvSip0K9/view?usp=sharing)**
 - **Tech Skills: AI Tools Fundamentals • LLM Workflow Concepts • AI-Assisted Development Principles.**
 
