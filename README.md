@@ -1,17 +1,17 @@
 # Live GitHub Pages Portfolio
 
-This repository serves as the deployment target for my personal developer portfolio website.
+This repo hosts the deployed version of my personal developer portfolio.
 
-It is **automatically updated** by [GitHub Actions](https://docs.github.com/en/actions) whenever changes are pushed to the main development repository.
-
----
-
-**Please Note:**
-* This repository is for hosting purposes only.
-* **I do not make direct edits here;** changes will be overwritten by the automated deployment process.
+Updates are **automatically applied** via [GitHub Actions](https://docs.github.com/en/actions) whenever changes are merged into the main development repository.
 
 ---
 
-### See the Live Portfolio
+**Important:**
+* This repository is for hosting only.
+* **I rarely edit directly** here; any manual changes (aside from Markdown files) will be overwritten by the deployment workflow.
+
+---
+
+### View the Live Portfolio
 
 **[lusanco.github.io](https://lusanco.github.io/)**
