@@ -1,6 +1,6 @@
 **Juana Díaz, PR 00795 • lasc1026@gmail.com • lusanco.github.io • linkedin.com/in/lusanco**
 
-**Software Developer • Front-End Development • JavaScript & Python • AWS Certified Cloud Practitioner**
+**Full Stack Developer • JavaScript • Python • AWS Certified Cloud Practitioner**
 
 ## **EXPERIENCE**
 
@@ -43,7 +43,7 @@
 
 ## **PROJECTS**
 
-**AI Agent Developer • Personal Career Agent AI • Remote**
+**Agentic Developer • Personal Career Agent AI • Remote**
 **July 2025 — Aug 2025 • [Live Demo](https://lasc1026-personal-career-agent-ai.hf.space/) • [GitHub Repo](https://github.com/Lusanco/personal-career-agent-ai)**
 
 * **Structured a scalable knowledge base to store career data in Markdown files.**
@@ -64,10 +64,16 @@
 * **Oversaw API integration using Axios and handled data logic for a responsive user experience.**
 * **Tech Skills: Vite • Svelte • Axios • TailwindCSS • DaisyUI • Flask (Jinja2).**
 
-## **EDUCATION**
+## **EDUCATION (WIP)**
 
-**Udemy – The Complete Agentic AI Engineering Course (2025) • Expected by Dec 2025**
+**Udemy – The Complete Agentic AI Engineering Course (2025) • Expected by July 2026**
 - **Tech Skills: Gradio • OpenAI Client • OpenAI Agents SDK • Gemini API • Ollama • Prompt Chaining.**
+
+**AWS – AWS Certified AI Practitioner • Mar 2026 • [Credential Link]()**
+- **Tech Skills: Skill • Skill • Skill • Skill • Skill.**
+
+**Docker - SWARM - Hands-on - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-31d92716-9112-43cd-b745-0060687c66de/)**
+- **Tech Skills: Skill • Skill • Skill • Skill • Skill.**
 
 **Docker for the Absolute Beginner - Hands On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-405cf4a3-7b03-4aca-b381-46449040474b/)**
 - **Tech Skills: Docker Engine • Dockerfile Development • Docker Compose • Docker Storage & Networking • Docker Registry.**
@@ -99,7 +105,7 @@
 **freeCodeCamp – Responsive Web Design • Apr 2022 • [Credential Link](https://www.freecodecamp.org/certification/fcc97f86d3b-c433-4dce-9c8b-f8d071526a04/responsive-web-design)**
 - **Tech Skills: HTML • CSS • Mobile First Design • Responsive Design.**
 
-## **SKILLS**
+## **SKILLS (WIP)**
 
 **Front-End Technologies: JavaScript • HTML • CSS • Svelte • TailwindCSS • DaisyUI • Axios  • Typescript**
 
