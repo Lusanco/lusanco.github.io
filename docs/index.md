@@ -1,6 +1,6 @@
 **Juana Díaz, PR 00795 • lasc1026@gmail.com • lusanco.github.io • linkedin.com/in/lusanco**
 
-**Full Stack Developer • JavaScript • Python • AWS Certified Cloud Practitioner**
+**Full Stack Developer • JavaScript • Python • AWS Certified Cloud Practitioner** 
 
 ## **EXPERIENCE**
 
