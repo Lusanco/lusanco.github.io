@@ -22,7 +22,7 @@
 * **Published and administered the application on HostGator and installed the SSL Certificate.**
 * **Tech Skills: HTML • CSS • TailwindCSS • JavaScript • AlpineJS.**
 
-**Front End Web Developer (Apprenticeship) • ZOMIO Inc. • Ponce, PR (Remote)**
+**Front End Web Developer (Apprenticeship) • ZOMIO Inc. • Ponce, PR • Remote**
 **June 2022 — Sept 2023**
 
 * **Designed, built, and formatted a responsive company website using HTML and TailwindCSS.**
@@ -33,7 +33,7 @@
 * **Successfully built key user-facing features for the dashboards under direct supervisory guidance.**
 * **Tech Skills: HTML • CSS • TailwindCSS • JavaScript • PahoMQTT.**
 
-**Administrative Assistant • ZOMIO Inc. • Barceloneta, PR (Hybrid)**
+**Administrative Assistant • ZOMIO Inc. • Barceloneta, PR • Hybrid**
 **Mar 2019 — June 2022**
 
 * **Collaborated with leadership on organizational strategy and daily operations to improve efficiency.**
@@ -43,7 +43,7 @@
 
 ## **PROJECTS**
 
-**Agentic Developer • Personal Career Agent AI • Remote**
+**Agentic Developer • Personal Career Agent AI**
 **July 2025 — Aug 2025 • [Live Demo](https://lasc1026-personal-career-agent-ai.hf.space/) • [GitHub Repo](https://github.com/Lusanco/personal-career-agent-ai)**
 
 * **Structured a scalable knowledge base to store career data in Markdown files.**
@@ -53,7 +53,7 @@
 * **Deployed the chatbot to Hugging Face Spaces for public access.**
 * **Tech Skills: Python • OpenAI SDK • Gemini API • Gradio • Hugging Face Spaces.**
 
-**Lead Developer / Front End Web Developer • PalitasPR • Remote**
+**Lead Developer / Front End Web Developer • PalitasPR**
 **Mar 2024 — July 2024 • [GitHub Repo](https://github.com/Lusanco/palitaspr)**
 
 * **Led a team of five developers in building a full-stack platform.**
