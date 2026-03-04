@@ -67,13 +67,12 @@
 ## **EDUCATION (WIP)**
 
 **Udemy – The Complete Agentic AI Engineering Course (2025) • Expected by July 2026**
-- **Tech Skills: Gradio • OpenAI Client • OpenAI Agents SDK • Gemini API • Ollama • Prompt Chaining.**
 
-**AWS – AWS Certified AI Practitioner • Mar 2026 • [Credential Link]()**
-- **Tech Skills: Skill • Skill • Skill • Skill • Skill.**
+**AWS – AWS Certified AI Practitioner • Expected by July 2026**
+- **Tech Skills: Amazon Bedrock & SageMaker • AWS Managed AI Services • AI Governance • Responsible AI • Prompt Engineering.**
 
 **Docker - SWARM - Hands-on - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-31d92716-9112-43cd-b745-0060687c66de/)**
-- **Tech Skills: Skill • Skill • Skill • Skill • Skill.**
+- **Tech Skills: Docker Swarm • Docker Services • Docker Compose • Overlay Networking • CI/CD Pipeline Integration.**
 
 **Docker for the Absolute Beginner - Hands On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-405cf4a3-7b03-4aca-b381-46449040474b/)**
 - **Tech Skills: Docker Engine • Dockerfile Development • Docker Compose • Docker Storage & Networking • Docker Registry.**
