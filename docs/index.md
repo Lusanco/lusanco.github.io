@@ -5,7 +5,7 @@
 ## **EXPERIENCE**
 
 **Front End Web Developer • Freelance Client Work • Remote**
-**Sept 2024 — Oct 2024 • [Live Demo](https://lusanco.github.io/svelte-hvac-portfolio/) • [GitHub Repo](https://github.com/Lusanco/svelte-hvac-portfolio)**
+**• Sept 2024 — Oct 2024 • [Live Demo](https://lusanco.github.io/svelte-hvac-portfolio/) • [GitHub Repo](https://github.com/Lusanco/svelte-hvac-portfolio)**
 
 * **Created a responsive Svelte web application to showcase HVAC services.**
 * **Matched the website’s content, layouts, and styling with the client’s brand identity.**
@@ -14,7 +14,7 @@
 * **Tech Skills: Vite • JavaScript • Svelte • TailwindCSS • SplideJS.**
 
 **Front End Web Developer • Freelance Client Work • Remote**
-**Aug 2023 — Sept 2023 • [Live Demo](https://lusanco.github.io/alpinejs-static-website/) • [GitHub Repo](https://github.com/Lusanco/alpinejs-static-website)**
+**• Aug 2023 — Sept 2023 • [Live Demo](https://lusanco.github.io/alpinejs-static-website/) • [GitHub Repo](https://github.com/Lusanco/alpinejs-static-website)**
 
 * **Constructed a responsive AlpineJS web application for a non-profit organization.**
 * **Standardized the website’s content, layouts, and styling with the organization’s brand identity.**
@@ -23,7 +23,7 @@
 * **Tech Skills: HTML • CSS • TailwindCSS • JavaScript • AlpineJS.**
 
 **Front End Web Developer (Apprenticeship) • ZOMIO Inc. • Ponce, PR • Remote**
-**June 2022 — Sept 2023**
+**• June 2022 — Sept 2023**
 
 * **Designed, built, and formatted a responsive company website using HTML and TailwindCSS.**
 * **Integrated the website’s content, layouts, and styling with the company’s brand identity.**
@@ -34,7 +34,7 @@
 * **Tech Skills: HTML • CSS • TailwindCSS • JavaScript • PahoMQTT.**
 
 **Administrative Assistant • ZOMIO Inc. • Barceloneta, PR • Hybrid**
-**Mar 2019 — June 2022**
+**• Mar 2019 — June 2022**
 
 * **Collaborated with leadership on organizational strategy and daily operations to improve efficiency.**
 * **Managed executive calendars, prioritized tasks, and facilitated communications across teams.**
@@ -44,7 +44,7 @@
 ## **PROJECTS**
 
 **Agentic Developer • Personal Career Agent AI**
-**July 2025 — Aug 2025 • [Live Demo](https://lasc1026-personal-career-agent-ai.hf.space/) • [GitHub Repo](https://github.com/Lusanco/personal-career-agent-ai)**
+**• July 2025 — Aug 2025 • [Live Demo](https://lasc1026-personal-career-agent-ai.hf.space/) • [GitHub Repo](https://github.com/Lusanco/personal-career-agent-ai)**
 
 * **Structured a scalable knowledge base to store career data in Markdown files.**
 * **Designed an agentic workflow using prompt chaining for context-aware responses.**
@@ -54,7 +54,7 @@
 * **Tech Skills: Python • OpenAI SDK • Gemini API • Gradio • Hugging Face Spaces.**
 
 **Lead Developer / Front End Web Developer • PalitasPR**
-**Mar 2024 — July 2024 • [GitHub Repo](https://github.com/Lusanco/palitaspr)**
+**• Mar 2024 — July 2024 • [GitHub Repo](https://github.com/Lusanco/palitaspr)**
 
 * **Led a team of five developers in building a full-stack platform.**
 * **Mentored the front-end team on key technologies, including Svelte, TailwindCSS, and Axios.**
