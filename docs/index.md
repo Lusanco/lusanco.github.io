@@ -66,7 +66,7 @@
 
 ## **EDUCATION**
 
-**Udemy – The Complete Agentic AI Engineering Course (2025) • Expected by July 2026**
+**Udemy – AI Engineer Agentic Track: The Complete Agent & MCP Course • Expected by July 2026**
 - **Tech Skills: Agentic Frameworks • Multi‑LLM Orchestration • MCP Servers • Autonomous Agent Projects • Tool / Memory Integration.**
 
 **AWS – AWS Certified AI Practitioner • Expected by July 2026**
@@ -105,7 +105,7 @@
 **freeCodeCamp – Responsive Web Design • Apr 2022 • [Credential Link](https://www.freecodecamp.org/certification/fcc97f86d3b-c433-4dce-9c8b-f8d071526a04/responsive-web-design)**
 - **Tech Skills: HTML • CSS • Mobile First Design • Responsive Design.**
 
-## **SKILLS (WIP)**
+## **SKILLS**
 
 **Front-End Technologies: JavaScript • HTML • CSS • Svelte • TailwindCSS • DaisyUI • Axios  • Typescript**
 
