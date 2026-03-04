@@ -64,9 +64,10 @@
 * **Oversaw API integration using Axios and handled data logic for a responsive user experience.**
 * **Tech Skills: Vite • Svelte • Axios • TailwindCSS • DaisyUI • Flask (Jinja2).**
 
-## **EDUCATION (WIP)**
+## **EDUCATION**
 
 **Udemy – The Complete Agentic AI Engineering Course (2025) • Expected by July 2026**
+- **Tech Skills: Agentic Frameworks • Multi‑LLM Orchestration • MCP Servers • Autonomous Agent Projects • Tool / Memory Integration.**
 
 **AWS – AWS Certified AI Practitioner • Expected by July 2026**
 - **Tech Skills: Amazon Bedrock & SageMaker • AWS Managed AI Services • AI Governance • Responsible AI • Prompt Engineering.**
