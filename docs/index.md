@@ -1,8 +1,17 @@
 **Juana Díaz, PR 00795 • lasc1026@gmail.com • lusanco.github.io • linkedin.com/in/lusanco**
 
-**Full Stack Developer • JavaScript • Python • AWS Certified Cloud Practitioner** 
+**AWS Certified Cloud Practitioner • Full Stack Developer** 
 
 ## **EXPERIENCE**
+
+**Engineering Aide • Lockheed Martin • Remote**
+**• Dec 2025 — Present**
+
+Intensive apprenticeship program focused on accelerated technical development across the modern Software Development Life Cycle. This full-time residency provides comprehensive training and hands-on immersion in Full-Stack Software Development, Test Automation, DevOps, and DevSecOps frameworks.
+
+* **Automating Software Bill of Materials (SBOM) pipelines across multiple projects using CycloneDX and Syft scanners to ensure regulatory compliance and mitigate security risks.**
+* **Creating and maintaining modular, reusable pipeline components to standardize integration processes across various repositories.**
+* **Tech Skills: CycloneDX • Syft • GitLab CI • DevSecOps • SBOM Management.**
 
 **Front End Web Developer • Freelance Client Work • Remote**
 **• Sept 2024 — Oct 2024 • [Live Demo](https://lusanco.github.io/svelte-hvac-portfolio/) • [GitHub Repo](https://github.com/Lusanco/svelte-hvac-portfolio)**
