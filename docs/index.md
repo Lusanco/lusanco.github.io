@@ -5,12 +5,12 @@
 **Engineering Aide • Lockheed Martin • Remote**
 **• Dec 2025 — Present**
 
-- **Development across the modern Software Development Life Cycle, focusing on Full-Stack Development, Test Automation, DevOps, and DevSecOps frameworks**
-- **Automated Software Bill of Materials (SBOM) pipelines across multiple projects using CycloneDX and Syft scanners to ensure regulatory compliance and mitigate security risks.**
-- **Created and maintained modular, reusable pipeline components to standardize integration processes across various repositories.**
-- **Automated testing for target repositories via Tricentis Tosca, creating test steps and running execution lists through Distributed Execution (DEX).**
-- **Maintained and updated Confluence space pages, ensuring documentation remained current and served as the primary source of truth for target groups.**
-- **Utilized Jira Kanban workflows to manage task velocity, tracking requirements from ingestion to deployment through epics, stories, and tickets to ensure continuous delivery.**
+- **Contribute to the full SDLC within Full-Stack, Test Automation, DevOps, and DevSecOps frameworks.**
+- **Automated SBOM pipelines using CycloneDX and Syft to ensure regulatory compliance and security.**
+- **Developed reusable pipeline components to standardize integration across multiple repositories.**
+- **Automated testing via Tricentis Tosca, managing test steps and execution through DEX.**
+- **Maintained Confluence space pages as a centralized technical source of truth for target groups.**
+- **Managed workflow velocity in Jira Kanban, tracking requirements from ingestion to deployment.**
 - **Tech Skills: GitLab CI • DevSecOps • SBOM Management • Jira • Confluence.**
 
 **Front End Web Developer • Freelance Client Work • Remote**
