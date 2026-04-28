@@ -77,39 +77,39 @@
 
 **Udemy – AI Engineer Agentic Track: The Complete Agent & MCP Course • Expected by July 2026**
 
-- **Tech Skills: Agentic Frameworks • Multi‑LLM Orchestration • MCP Servers • Autonomous Agent Projects • Tool / Memory Integration.**
+- **Tech Skills: Agentic Frameworks • LLM Orchestration • MCP Servers • Tool / Memory Integration.**
 
 **AWS – AWS Certified AI Practitioner • Expected by July 2026**
 
-- **Tech Skills: Amazon Bedrock & SageMaker • AWS Managed AI Services • AI Governance • Responsible AI • Prompt Engineering.**
+- **Tech Skills: Amazon Bedrock & SageMaker • AWS Managed AI Services • AI Governance • Prompt Engineering.**
 
 **Docker - SWARM - Hands-on - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-31d92716-9112-43cd-b745-0060687c66de/)**
 
-- **Tech Skills: Docker Swarm • Docker Services • Docker Compose • Overlay Networking • CI/CD Pipeline Integration.**
+- **Tech Skills: Docker Swarm • Docker Services • Docker Compose • Overlay Networking • CI/CD Pipeline.**
 
 **Docker for the Absolute Beginner - Hands On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-405cf4a3-7b03-4aca-b381-46449040474b/)**
 
-- **Tech Skills: Docker Engine • Dockerfile Development • Docker Compose • Docker Storage & Networking • Docker Registry.**
+- **Tech Skills: Docker Engine • Dockerfile • Docker Compose • Docker Storage & Networking • Docker Registry.**
 
 **Udemy Labs - Docker for the Absolute Beginner • Dec 2025 • [Credential Link](https://learn.kodekloud.com/user/certificate/eab7f1dd-5c3e-4338-9290-72a8359b371f)**
 
-- **Tech Skills: Docker Engine • Dockerfile Development • Docker Compose • Docker Storage & Networking • Docker Registry.**
+- **Tech Skills: Docker Engine • Dockerfile • Docker Compose • Docker Storage & Networking • Docker Registry.**
 
 **Ansible Advanced - Hands-On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-b7ecbe7b-7a8f-49ca-a06e-d9574b519218/)**
 
-- **Tech Skills: Ansible Vault • Custom Modules & Plugins • Dynamic Inventory • Advanced Error Handling • Ansible Strategies & Lookups.**
+- **Tech Skills: Ansible Vault • Custom Modules & Plugins • Dynamic Inventory • Ansible Strategies & Lookups.**
 
 **Ansible for the Absolute Beginner - Hands-On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-bce3a9c4-384a-4961-85e9-427379d67c46/)**
 
-- **Tech Skills: Ansible Playbooks • Ansible Roles & Collections • Jinja2 Templating • Ansible Inventory Management • YAML.**
+- **Tech Skills: Ansible Playbooks • Ansible Roles & Collections • Ansible Inventory Management • YAML.**
 
 **Udemy Labs : Ansible for the Absolute Beginners • Dec 2025 • [Credential Link](https://learn.kodekloud.com/user/certificate/de4fcbad-5b3f-4e69-9728-29bbbc9c8900)**
 
-- **Tech Skills: Ansible Playbooks • Ansible Roles & Collections • Jinja2 Templating • Ansible Inventory Management • YAML.**
+- **Tech Skills: Ansible Playbooks • Ansible Roles & Collections • Ansible Inventory Management • YAML.**
 
 **BIG school – Curso de Iniciación al Desarrollo con IA • Oct 2025 • [Credential Link](https://drive.google.com/file/d/1ZKxWtKuIeqD_R-fYteFtOjMizvSip0K9/view?usp=sharing)**
 
-- **Tech Skills: AI Tools Fundamentals • LLM Workflow Concepts • AI-Assisted Development Principles.**
+- **Tech Skills: AI Tools Fundamentals • LLM Workflow Concepts • AI-Assisted Development.**
 
 **Udemy – Curso de IA web: Nuevo Modelo de Google para JavaScript • Oct 2025 • [Credential Link](https://www.udemy.com/certificate/UC-33ff0078-2eac-4a80-8690-8b2d747ccfe7/)**
 
