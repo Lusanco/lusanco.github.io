@@ -77,23 +77,23 @@
 
 **AWS – AWS Certified AI Practitioner • Expected by July 2026**
 
-- **Tech Skills: Amazon Bedrock & SageMaker • AWS Managed AI Services • AI Governance • Prompt Engineering.**
+- **Tech Skills: Bedrock • SageMaker • AWS Managed AI Services • AI Governance.**
 
 **Docker - SWARM - Hands-on - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-31d92716-9112-43cd-b745-0060687c66de/)**
 
-- **Tech Skills: Docker Swarm • Docker Services • Docker Compose • Overlay Networking • CI/CD Pipeline.**
+- **Tech Skills: Docker Swarm • Docker Services • Docker Compose • Overlay Networking.**
 
 **Docker for the Absolute Beginner - Hands On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-405cf4a3-7b03-4aca-b381-46449040474b/)**
 
-- **Tech Skills: Docker Engine • Dockerfile • Docker Compose • Docker Storage & Networking • Docker Registry.**
+- **Tech Skills: Dockerfile • Docker Compose • Docker Storage & Networking • Docker Registry.**
 
 **Udemy Labs - Docker for the Absolute Beginner • Dec 2025 • [Credential Link](https://learn.kodekloud.com/user/certificate/eab7f1dd-5c3e-4338-9290-72a8359b371f)**
 
-- **Tech Skills: Docker Engine • Dockerfile • Docker Compose • Docker Storage & Networking • Docker Registry.**
+- **Tech Skills: Dockerfile • Docker Compose • Docker Storage & Networking • Docker Registry.**
 
 **Ansible Advanced - Hands-On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-b7ecbe7b-7a8f-49ca-a06e-d9574b519218/)**
 
-- **Tech Skills: Ansible Vault • Custom Modules & Plugins • Dynamic Inventory • Ansible Strategies & Lookups.**
+- **Tech Skills: Ansible Vault • Custom Modules & Plugins • Dynamic Inventory • Ansible Lookups.**
 
 **Ansible for the Absolute Beginner - Hands-On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-bce3a9c4-384a-4961-85e9-427379d67c46/)**
 
