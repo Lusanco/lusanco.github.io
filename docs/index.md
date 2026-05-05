@@ -31,7 +31,7 @@
 - **Published and administered the application on HostGator and installed the SSL Certificate.**
 - **Tech Skills: HTML • CSS • TailwindCSS • JavaScript • AlpineJS.**
 
-**Front End Web Developer (Apprenticeship) • ZOMIO Inc. • Ponce, PR • Remote**
+**Front End Web Developer • ZOMIO Inc. • Ponce, PR • Remote**
 **• June 2022 — Sept 2023**
 
 - **Designed, built, and formatted a responsive company website using HTML and TailwindCSS.**
@@ -74,10 +74,6 @@
 - **Tech Skills: Vite • Svelte • Axios • TailwindCSS • DaisyUI • Flask (Jinja2).**
 
 ## **EDUCATION**
-
-**Udemy – AI Engineer Agentic Track: The Complete Agent & MCP Course • Expected by July 2026**
-
-- **Tech Skills: Agentic Frameworks • LLM Orchestration • MCP Servers • Tool / Memory Integration.**
 
 **AWS – AWS Certified AI Practitioner • Expected by July 2026**
 
@@ -133,10 +129,12 @@
 
 **Back-End Technologies: Python • Flask • NodeJS • Jinja2**
 
-**AI Technologies: OpenAI Client • Gemini API • Gradio • Ollama • Prompt Chaining**
+**AI Technologies: OpenAI Client • Gemini API • Gradio • Ollama • Prompt Chaining • Agentic Workflows**
 
-**Developer Tools: GitHub • VS Code • NPM • Vite • Hugging Face Spaces • HostGator • Shell Scripting**
+**DevOps & Pipeline Technologies: GitLab CI • SBOM Tools (CycloneDX, Syft)**
+
+**Developer Tools: GitHub • Jira • Confluence • Vite • Hugging Face Spaces • HostGator • Shell Scripting**
 
 **Other Skills: Bilingual (English–Spanish) • Team Leadership • Mobile-First Design • Responsive Design**
 
-**Current Interests: AI Agent Development • AI-Assisted Development • AI Tools**
+**Current Interests: AI Agent Development • AI-Assisted Development • CI/CD Pipelines • Docker**
