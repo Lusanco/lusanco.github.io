@@ -14,7 +14,7 @@
 - **Tech Skills: GitLab CI • DevSecOps • SBOM Management • Jira • Confluence.**
 
 **Front End Web Developer • Freelance Client Work • Remote**
-**• Sept 2024 — Oct 2024 • [Live Demo](https://lusanco.github.io/svelte-hvac-portfolio/) • [GitHub Repo](https://github.com/Lusanco/svelte-hvac-portfolio)**
+**• Sept 2024 — Oct 2024 • [Live Demo](https://lusanco.github.io/svelte-hvac-portfolio/)**
 
 - **Created a responsive Svelte web application to showcase HVAC services.**
 - **Matched the website’s content, layouts, and styling with the client’s brand identity.**
@@ -23,7 +23,7 @@
 - **Tech Skills: Vite • JavaScript • Svelte • TailwindCSS • SplideJS.**
 
 **Front End Web Developer • Freelance Client Work • Remote**
-**• Aug 2023 — Sept 2023 • [Live Demo](https://lusanco.github.io/alpinejs-static-website/) • [GitHub Repo](https://github.com/Lusanco/alpinejs-static-website)**
+**• Aug 2023 — Sept 2023 • [Live Demo](https://lusanco.github.io/alpinejs-static-website/)**
 
 - **Constructed a responsive AlpineJS web application for a non-profit organization.**
 - **Standardized the website’s content, layouts, and styling with the organization’s brand identity.**
@@ -53,7 +53,7 @@
 ## **PROJECTS**
 
 **Agentic Developer • Personal Career Agent AI**
-**• July 2025 — Aug 2025 • [Live Demo](https://lasc1026-personal-career-agent-ai.hf.space/) • [GitHub Repo](https://github.com/Lusanco/personal-career-agent-ai)**
+**• July 2025 — Aug 2025 • [GitHub Repo](https://github.com/Lusanco/personal-career-agent-ai)**
 
 - **Structured a scalable knowledge base to store career data in Markdown files.**
 - **Designed an agentic workflow using prompt chaining for context-aware responses.**
