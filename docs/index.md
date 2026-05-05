@@ -133,7 +133,7 @@
 
 **DevOps & Pipeline Technologies: GitLab CI • SBOM Tools (CycloneDX, Syft)**
 
-**Developer Tools: GitHub • Jira • Confluence • Vite • Hugging Face Spaces • HostGator • Shell Scripting**
+**Developer Tools: GitHub • Vite • Shell Scripting • Jira • Confluence • Hugging Face Spaces • HostGator**
 
 **Other Skills: Bilingual (English–Spanish) • Team Leadership • Mobile-First Design • Responsive Design**
 
