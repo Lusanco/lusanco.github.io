@@ -1,140 +1,62 @@
-**Juana Díaz, PR 00795 • lasc1026@gmail.com • linkedin.com/in/lusanco • AWS Certified Cloud Practitioner**
+_Juana Díaz, PR • lasc1026@gmail.com • linkedin.com/in/lusanco • Bilingual (English/Spanish)_<br>
+_Certifications: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f1289a38-cc96-4550-87a7-9a00f3cfb268/public_url) • [AWS Certified AI Practitioner](https://www.credly.com/badges/ee3ee435-d36b-477f-a2e7-3ea4cb846dd0/public_url)_
 
-## **EXPERIENCE**
+## EXPERIENCE
 
-**Engineering Aide • Lockheed Martin • Remote**
-**• Dec 2025 — Present**
+**Lockheed Martin • Engineering Aide • Remote • Dec 2025 — Present**
 
-- **Contribute to the full SDLC within Full-Stack, Test Automation, DevOps, and DevSecOps frameworks.**
-- **Automated SBOM pipelines using CycloneDX and Syft to ensure regulatory compliance and security.**
-- **Developed reusable pipeline components to standardize integration across multiple repositories.**
-- **Automated testing via Tricentis Tosca, managing test steps and execution through DEX.**
-- **Maintained Confluence space pages as a centralized technical source of truth for target groups.**
-- **Managed workflow velocity in Jira Kanban, tracking requirements from ingestion to deployment.**
-- **Tech Skills: GitLab CI • DevSecOps • SBOM Management • Jira • Confluence.**
+- _Selected for Lockheed Martin’s ITAP full‑stack engineering program, a 6‑month path that begins with a 2‑week technical bootcamp and continues with three engineering pod rotations; this role spans two pods, Test Automation & DevOps and Test Automation: Tosca._
+- _Adapted existing GitLab CI modules to build an SBOM pipeline template that supported Maven, Node.js, and Python projects, including updates to jobs, rules, and artifacts for different language scanners._
+- _Configured SBOM generation in GitLab CI using CycloneDX (with Syft as a fallback scanner) and wired the resulting artifacts into existing eFOSS and GitLab Pages jobs so teams could review HTML risk reports._
+- _Maintained and extended automated end‑to‑end UI regression tests in Tricentis Tosca by updating test logic and wait conditions, reusing example assets, and adding steps to cover additional application workflows._
+- _Prepared and ran execution lists and Distributed Execution (DEX) runs, using repeated successful executions as a gate before promoting automated policy test suites into production._
+- _Completed an ITAP special project to migrate the program’s WordPress website into a dedicated Confluence space, organizing pages, navigation, and access so managers and ITAP participants could find all program information in one place._
+- _Served as a judge for an ITAP AI hackathon hosted in collaboration with Interamericana University’s Aguadilla campus, reviewing student projects, giving feedback, and helping select the winning teams._
+- _GitLab CI • SBOM (CycloneDX, Syft) • Tricentis Tosca Commander • DEX • Automated end‑to‑end UI regression testing._
 
-**Front End Web Developer • Freelance Client Work • Remote**
-**• Sept 2024 — Oct 2024 • [Live Demo](https://lusanco.github.io/svelte-hvac-portfolio/)**
+**Independent Contractor • Front End Web Developer • Remote • Sept 2024 — Oct 2024**
 
-- **Created a responsive Svelte web application to showcase HVAC services.**
-- **Matched the website’s content, layouts, and styling with the client’s brand identity.**
-- **Designed a mobile-first and user-friendly design using TailwindCSS.**
-- **Launched and maintained the application on HostGator and installed the SSL Certificate.**
-- **Tech Skills: Vite • JavaScript • Svelte • TailwindCSS • SplideJS.**
+- _Designed and developed a simple informational website for an HVAC client using Svelte, Vite, and TailwindCSS, including layout, color palette, and page structure based on the client’s logo, mission, and service descriptions._
+- _Gathered and refined requirements through several meetings and ongoing phone/email communication, providing design iterations and incorporating feedback on content and visual presentation._
+- _Implemented a responsive, mobile‑first UI and tested layouts across Chrome DevTools viewports and multiple physical devices (phones, tablets, desktop browsers) to ensure consistent behavior._
+- _Deployed the production build by running the Vite static build and uploading the generated assets to HostGator via FTP, configuring the hosting so client‑side routing continued to work on page refresh._
+- _Enabled HTTPS for the site by applying the SSL options included in the client’s HostGator plan to the project’s URLs._
+- _Vite • Svelte • JavaScript • TailwindCSS • Chrome DevTools • HostGator • FTP._
 
-**Front End Web Developer • Freelance Client Work • Remote**
-**• Aug 2023 — Sept 2023 • [Live Demo](https://lusanco.github.io/alpinejs-static-website/)**
+**Independent Contractor • Front End Web Developer • Remote • Aug 2023 — Sept 2023**
 
-- **Constructed a responsive AlpineJS web application for a non-profit organization.**
-- **Standardized the website’s content, layouts, and styling with the organization’s brand identity.**
-- **Crafted a mobile-first and user-friendly design using TailwindCSS.**
-- **Published and administered the application on HostGator and installed the SSL Certificate.**
-- **Tech Skills: HTML • CSS • TailwindCSS • JavaScript • AlpineJS.**
+- _Designed and built a simple single‑page informational website for a non‑profit using HTML, TailwindCSS, JavaScript, and Alpine.js, including layout, color choices, and page structure based on the organization’s logo and written content._
+- _Created the organization’s first website by gathering requirements through conversations and translating their mission and activities into clear sections and on‑page content._
+- _Used Alpine.js directives to switch views within a single HTML page, showing and hiding content sections to provide a basic single‑page application experience._
+- _Implemented responsive, mobile‑first styling with TailwindCSS and tested the site across Chrome DevTools viewports and multiple physical devices (phones, tablets, desktops)._
+- _Deployed the site by uploading static files through HostGator cPanel and enabling HTTPS using the SSL options included in the hosting plan._
+- _HTML • CSS • TailwindCSS • JavaScript • Alpine.js • Chrome DevTools • HostGator cPanel._
 
-**Front End Web Developer • ZOMIO Inc. • Ponce, PR • Remote**
-**• June 2022 — Sept 2023**
+**ZOMIO Inc • Front End Web Developer • Ponce, PR • Remote • June 2022 — Sept 2023**
 
-- **Designed, built, and formatted a responsive company website using HTML and TailwindCSS.**
-- **Integrated the website’s content, layouts, and styling with the company’s brand identity.**
-- **Migrated the domain from GoDaddy to HostGator and configured the DNS.**
-- **Released and oversaw the application on HostGator and installed the SSL Certificate.**
-- **Engineered two real-time, MQTT-powered dashboards that visualized data from hardware devices.**
-- **Successfully built key user-facing features for the dashboards under direct supervisory guidance.**
-- **Tech Skills: HTML • CSS • TailwindCSS • JavaScript • PahoMQTT.**
+- _Developed two browser-based IoT dashboards using JavaScript and the Paho MQTT client to subscribe to broker topics and display live telemetry from hardware devices._
+- _Implemented real-time UI updates by parsing JSON payloads from subscribed topics and updating views for temperature, gas concentrations (CO, CO₂), GPS location (with a map and moving marker), and presence indicators._
+- _Designed the dashboards’ layouts and interactions while coordinating with the hardware engineer to align the UI with device capabilities and data formats._
+- _Redesigned the company’s marketing website in HTML and TailwindCSS, replacing the previous site and iterating on structure and styling with feedback from the CEO._
+- _Transferred the company domain from GoDaddy to HostGator and configured DNS records and SSL in the hosting panels so the new site was served correctly over HTTPS._
+- _HTML • CSS • TailwindCSS • JavaScript • Paho MQTT • MQTT-based dashboards • Basic DNS and SSL configuration._
 
-**Administrative Assistant • ZOMIO Inc. • Barceloneta, PR • Hybrid**
-**• Mar 2019 — June 2022**
+**ZOMIO Inc • Technical Administrative Assistant • Barceloneta, PR • Hybrid • Mar 2019 — June 2022**
 
-- **Collaborated with leadership on organizational strategy and daily operations to improve efficiency.**
-- **Managed executive calendars, prioritized tasks, and facilitated communications across teams.**
-- **Handled financial documentation, maintained records, and performed minor accounting duties.**
-- **Soft Skills: Strategic Alignment • Collaboration • Organization • Optimization • Prioritization.**
+- _Provided administrative support to the CEO by managing his calendar, scheduling internal meetings, handling email communication, and organizing shared documents in Google Drive._
+- _Prepared and submitted payroll runs in ADP by entering and validating employee time and pay information according to established procedures._
+- _Organized financial documentation by filing vendor invoices and expense records in a structured folder system._
+- _Coordinated internal technical and status meetings, sending invites, preparing agendas, and taking notes, then storing meeting summaries in Google Drive for later reference._
+- _Arranged business travel for the CEO, including booking flights and hotels according to specific requirements, and handled follow‑up calls and emails related to logistics._
+- _In the later part of this role, created an internal beta redesign of the company website, which contributed to planning an updated digital presence and preceded a transition into a dedicated front‑end position._
+- _Google Workspace (Gmail, Drive) • ADP payroll processing (basic) • Meeting and calendar coordination • Document organization._
 
-## **PROJECTS**
+## CERTIFICATIONS & EDUCATION
 
-**Agentic Developer • Personal Career Agent AI**
-**• July 2025 — Aug 2025 • [GitHub Repo](https://github.com/Lusanco/personal-career-agent-ai)**
-
-- **Structured a scalable knowledge base to store career data in Markdown files.**
-- **Designed an agentic workflow using prompt chaining for context-aware responses.**
-- **Engineered a Python chatbot using OpenAI SDK and Gemini API.**
-- **Built a user-friendly frontend with Gradio for an intuitive chat interface.**
-- **Deployed the chatbot to Hugging Face Spaces for public access.**
-- **Tech Skills: Python • OpenAI SDK • Gemini API • Gradio • Hugging Face Spaces.**
-
-**Lead Developer / Front End Web Developer • PalitasPR**
-**• Mar 2024 — July 2024 • [GitHub Repo](https://github.com/Lusanco/palitaspr)**
-
-- **Led a team of five developers in building a full-stack platform.**
-- **Mentored the front-end team on key technologies, including Svelte, TailwindCSS, and Axios.**
-- **Planned the front-end application and designed the API contract with the backend team.**
-- **Directed front-end development, delegating tasks and performing code reviews.**
-- **Coordinated project timelines and facilitated team communication for on-schedule delivery.**
-- **Oversaw API integration using Axios and handled data logic for a responsive user experience.**
-- **Tech Skills: Vite • Svelte • Axios • TailwindCSS • DaisyUI • Flask (Jinja2).**
-
-## **EDUCATION**
-
-**AWS – AWS Certified AI Practitioner • Expected by July 2026**
-
-- **Tech Skills: Bedrock • SageMaker • AWS Managed AI Services • AI Governance.**
-
-**Docker - SWARM - Hands-on - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-31d92716-9112-43cd-b745-0060687c66de/)**
-
-- **Tech Skills: Docker Swarm • Docker Services • Docker Compose • Overlay Networking.**
-
-**Docker for the Absolute Beginner - Hands On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-405cf4a3-7b03-4aca-b381-46449040474b/)**
-
-- **Tech Skills: Dockerfile • Docker Compose • Docker Storage & Networking • Docker Registry.**
-
-**Udemy Labs - Docker for the Absolute Beginner • Dec 2025 • [Credential Link](https://learn.kodekloud.com/user/certificate/eab7f1dd-5c3e-4338-9290-72a8359b371f)**
-
-- **Tech Skills: Dockerfile • Docker Compose • Docker Storage & Networking • Docker Registry.**
-
-**Ansible Advanced - Hands-On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-b7ecbe7b-7a8f-49ca-a06e-d9574b519218/)**
-
-- **Tech Skills: Ansible Vault • Custom Modules & Plugins • Dynamic Inventory • Ansible Lookups.**
-
-**Ansible for the Absolute Beginner - Hands-On - DevOps • Dec 2025 • [Credential Link](https://www.udemy.com/certificate/UC-bce3a9c4-384a-4961-85e9-427379d67c46/)**
-
-- **Tech Skills: Ansible Playbooks • Ansible Roles & Collections • Ansible Inventory Management • YAML.**
-
-**Udemy Labs : Ansible for the Absolute Beginners • Dec 2025 • [Credential Link](https://learn.kodekloud.com/user/certificate/de4fcbad-5b3f-4e69-9728-29bbbc9c8900)**
-
-- **Tech Skills: Ansible Playbooks • Ansible Roles & Collections • Ansible Inventory Management • YAML.**
-
-**BIG school – Curso de Iniciación al Desarrollo con IA • Oct 2025 • [Credential Link](https://drive.google.com/file/d/1ZKxWtKuIeqD_R-fYteFtOjMizvSip0K9/view?usp=sharing)**
-
-- **Tech Skills: AI Tools Fundamentals • LLM Workflow Concepts • AI-Assisted Development.**
-
-**Udemy – Curso de IA web: Nuevo Modelo de Google para JavaScript • Oct 2025 • [Credential Link](https://www.udemy.com/certificate/UC-33ff0078-2eac-4a80-8690-8b2d747ccfe7/)**
-
-- **Tech Skills: Chrome Built-in AI APIs • Gemini Nano Integration • Local AI Development • Prompt API.**
-
-**AWS – AWS Certified Cloud Practitioner • May 2025 • [Credential Link](https://cp.certmetrics.com/amazon/en/public/verify/credential/cac48efa5fa04cee91ef6f372de23518)**
-
-- **Tech Skills: Cloud Computing • Security & Compliance • Cost Optimization • Architecture Principles.**
-
-**Holberton Coding School – Foundations of Computer Science • July 2024 • [Credential Link](https://drive.google.com/file/d/1OEBJ3mwrmCAXIXk3UxCuPaQHNqt1L0zz/view)**
-
-- **Tech Skills: C • Python • Flask • SQL • Bash Scripting • Version Control (Git, GitHub).**
-
-**freeCodeCamp – Responsive Web Design • Apr 2022 • [Credential Link](https://www.freecodecamp.org/certification/fcc97f86d3b-c433-4dce-9c8b-f8d071526a04/responsive-web-design)**
-
-- **Tech Skills: HTML • CSS • Mobile First Design • Responsive Design.**
-
-## **SKILLS**
-
-**Front-End Technologies: JavaScript • HTML • CSS • Svelte • TailwindCSS • DaisyUI • Axios • Typescript**
-
-**Back-End Technologies: Python • Flask • NodeJS • Jinja2**
-
-**AI Technologies: OpenAI Client • Gemini API • Gradio • Ollama • Prompt Chaining • Agentic Workflows**
-
-**DevOps & Pipeline Technologies: GitLab CI • SBOM Tools (CycloneDX, Syft)**
-
-**Developer Tools: GitHub • Vite • Shell Scripting • Jira • Confluence • Hugging Face Spaces • HostGator**
-
-**Other Skills: Bilingual (English–Spanish) • Team Leadership • Mobile-First Design • Responsive Design**
-
-**Current Interests: AI Agent Development • AI-Assisted Development • CI/CD Pipelines • Docker**
+- **[AWS](https://www.credly.com/badges/ee3ee435-d36b-477f-a2e7-3ea4cb846dd0/public_url) • Certified AI Practitioner • May 2026**
+- **[Tricentis](https://academy.tricentis.com/share/v1/gamification/assigned_badge/43da3dea-f51f-46b0-a543-e1195f4c2844/shared?lang=en&t=1780316438300) • Test Design Specialist Level 2 (TDS2) • Mar 2026**
+- **[Tricentis](https://academy.tricentis.com/share/v1/gamification/assigned_badge/c8afd5b3-2485-4e53-a12c-8dd99338f8af/shared?lang=en&t=1780316417436) • Test Design Specialist Level 1 (TDS1) • Mar 2026**
+- **[Tricentis](https://academy.tricentis.com/share/v1/gamification/assigned_badge/c725e183-98b0-4f90-8fde-470a0cce7106/shared?lang=en&t=1780316394706) • Automation Specialist Level 2 (AS2) • Mar 2026**
+- **[Tricentis](https://academy.tricentis.com/share/v1/gamification/assigned_badge/d0331408-06b2-4dba-9b46-5b8b9f10052f/shared?lang=en&t=1780316375651e) • Automation Specialist Level 1 (AS1) • Mar 2026**
+- **[AWS](https://www.credly.com/badges/f1289a38-cc96-4550-87a7-9a00f3cfb268/public_url) • Certified Cloud Practitioner • May 2025**
+- **[Holberton School](https://drive.google.com/file/d/1OEBJ3mwrmCAXIXk3UxCuPaQHNqt1L0zz/view) • Foundations of Computer Science • July 2024**
